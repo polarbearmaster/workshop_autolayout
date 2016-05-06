@@ -1,0 +1,5 @@
+# workshop_autolayout
+去年在团队内部做的一个分享，关于自动布局适配不同分辨率的手机
+demo是https://www.raywenderlich.com上公开的资料和著名的第三方适配框架masonry
+目前在项目中我们常用的是masonry，因为多人同时开发，在xib上修改，merge代码非常容易起冲突。
+独立开发的话推荐storyboard＋autolayout＋stackview
